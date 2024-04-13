@@ -4,3 +4,16 @@ The most official build is available for download on the Git website.
 Just go to https://git-scm.com/download/win and the download will start automatically. 
 Note that this is a project called Git for Windows, which is separate from Git itself; for more information on it, go to https://gitforwindows.org.
 
+
+Download for Windows
+Click here to download the latest (2.44.0) 64-bit version of Git for Windows. This is the most recent maintained build. It was released about 2 months ago, on 2024-02-23.
+
+Other Git for Windows downloads
+Standalone Installer
+32-bit Git for Windows Setup.
+
+64-bit Git for Windows Setup.
+
+Portable ("thumbdrive edition")
+32-bit Git for Windows Portable.
+
